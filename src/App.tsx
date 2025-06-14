@@ -14,23 +14,18 @@ const App = () => {
 
   const testimonials = [
     {
-      name: "Dr. Sarah Chen",
-      role: "Chief Geologist at MineralCorp",
-      content: "Drill Rock has revolutionized our lithology analysis workflow. What used to take days now takes minutes with 95% accuracy.",
+      name: "Dr. Hammadi Nabila",
+      role: "Geologist",
+      content: "Drill Rock has revolutionized our lithology analysis workflow. What used to take days now takes minutes with better coming accuracy.",
       rating: 5
     },
     {
-      name: "Mike Rodriguez",
-      role: "Senior Field Geologist",
-      content: "The AI-powered recognition has saved us countless hours in the field. The mobile integration is fantastic.",
+      name: "Algerian Startups Minster",
+      role: "",
+      content: "This Project Should Continue.",
       rating: 5
     },
-    {
-      name: "Dr. Emma Watson",
-      role: "Research Director, GeoTech Labs",
-      content: "Impressive accuracy and seamless integration with our existing GIS systems. Highly recommended.",
-      rating: 5
-    }
+
   ];
 
   const features = [
